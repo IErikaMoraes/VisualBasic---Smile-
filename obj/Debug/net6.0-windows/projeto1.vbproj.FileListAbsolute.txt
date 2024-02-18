@@ -1,0 +1,36 @@
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\Visual Basic - Teotonio\projeto1\projeto1\bin\Debug\net6.0-windows\projeto1.exe
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\Visual Basic - Teotonio\projeto1\projeto1\bin\Debug\net6.0-windows\projeto1.deps.json
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\Visual Basic - Teotonio\projeto1\projeto1\bin\Debug\net6.0-windows\projeto1.runtimeconfig.json
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\Visual Basic - Teotonio\projeto1\projeto1\bin\Debug\net6.0-windows\projeto1.dll
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\Visual Basic - Teotonio\projeto1\projeto1\bin\Debug\net6.0-windows\projeto1.pdb
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\Visual Basic - Teotonio\projeto1\projeto1\obj\Debug\net6.0-windows\projeto1.vbproj.AssemblyReference.cache
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\Visual Basic - Teotonio\projeto1\projeto1\obj\Debug\net6.0-windows\projeto1.Form1.resources
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\Visual Basic - Teotonio\projeto1\projeto1\obj\Debug\net6.0-windows\projeto1.Resources.resources
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\Visual Basic - Teotonio\projeto1\projeto1\obj\Debug\net6.0-windows\projeto1.vbproj.GenerateResource.cache
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\Visual Basic - Teotonio\projeto1\projeto1\obj\Debug\net6.0-windows\projeto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\Visual Basic - Teotonio\projeto1\projeto1\obj\Debug\net6.0-windows\projeto1.AssemblyInfoInputs.cache
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\Visual Basic - Teotonio\projeto1\projeto1\obj\Debug\net6.0-windows\projeto1.AssemblyInfo.vb
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\Visual Basic - Teotonio\projeto1\projeto1\obj\Debug\net6.0-windows\projeto1.vbproj.CoreCompileInputs.cache
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\Visual Basic - Teotonio\projeto1\projeto1\obj\Debug\net6.0-windows\projeto1.dll
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\Visual Basic - Teotonio\projeto1\projeto1\obj\Debug\net6.0-windows\refint\projeto1.dll
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\Visual Basic - Teotonio\projeto1\projeto1\obj\Debug\net6.0-windows\projeto1.pdb
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\Visual Basic - Teotonio\projeto1\projeto1\obj\Debug\net6.0-windows\projeto1.genruntimeconfig.cache
+C:\Users\erika\OneDrive\Área de Trabalho\Formações Programação ERIKA\PROGRAMAÇÃO INFORMÁTICA\Visual Basic - Teotonio\projeto1\projeto1\obj\Debug\net6.0-windows\ref\projeto1.dll
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\VisualBasic_Teotonio\PROJETOS\projeto1_smile\projeto1\bin\Debug\net6.0-windows\projeto1.exe
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\VisualBasic_Teotonio\PROJETOS\projeto1_smile\projeto1\bin\Debug\net6.0-windows\projeto1.deps.json
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\VisualBasic_Teotonio\PROJETOS\projeto1_smile\projeto1\bin\Debug\net6.0-windows\projeto1.runtimeconfig.json
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\VisualBasic_Teotonio\PROJETOS\projeto1_smile\projeto1\bin\Debug\net6.0-windows\projeto1.dll
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\VisualBasic_Teotonio\PROJETOS\projeto1_smile\projeto1\bin\Debug\net6.0-windows\projeto1.pdb
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\VisualBasic_Teotonio\PROJETOS\projeto1_smile\projeto1\obj\Debug\net6.0-windows\projeto1.vbproj.AssemblyReference.cache
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\VisualBasic_Teotonio\PROJETOS\projeto1_smile\projeto1\obj\Debug\net6.0-windows\projeto1.Form1.resources
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\VisualBasic_Teotonio\PROJETOS\projeto1_smile\projeto1\obj\Debug\net6.0-windows\projeto1.Resources.resources
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\VisualBasic_Teotonio\PROJETOS\projeto1_smile\projeto1\obj\Debug\net6.0-windows\projeto1.vbproj.GenerateResource.cache
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\VisualBasic_Teotonio\PROJETOS\projeto1_smile\projeto1\obj\Debug\net6.0-windows\projeto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\VisualBasic_Teotonio\PROJETOS\projeto1_smile\projeto1\obj\Debug\net6.0-windows\projeto1.AssemblyInfoInputs.cache
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\VisualBasic_Teotonio\PROJETOS\projeto1_smile\projeto1\obj\Debug\net6.0-windows\projeto1.AssemblyInfo.vb
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\VisualBasic_Teotonio\PROJETOS\projeto1_smile\projeto1\obj\Debug\net6.0-windows\projeto1.vbproj.CoreCompileInputs.cache
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\VisualBasic_Teotonio\PROJETOS\projeto1_smile\projeto1\obj\Debug\net6.0-windows\projeto1.dll
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\VisualBasic_Teotonio\PROJETOS\projeto1_smile\projeto1\obj\Debug\net6.0-windows\refint\projeto1.dll
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\VisualBasic_Teotonio\PROJETOS\projeto1_smile\projeto1\obj\Debug\net6.0-windows\projeto1.pdb
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\VisualBasic_Teotonio\PROJETOS\projeto1_smile\projeto1\obj\Debug\net6.0-windows\projeto1.genruntimeconfig.cache
+C:\Users\erika\OneDrive\Área de Trabalho\FormacoesEmProgramacao\PROGRAMACAO_INFORMATICA\VisualBasic_Teotonio\PROJETOS\projeto1_smile\projeto1\obj\Debug\net6.0-windows\ref\projeto1.dll
